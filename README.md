@@ -1,2 +1,2 @@
 # Sudoku
-It's a Sudoku game, made using python.
+It's a Sudoku game (4 x 4), made using python.
